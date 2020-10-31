@@ -1,0 +1,17 @@
+#signupForm label {
+    display: block;
+    margin-top: 10px;
+}
+
+#errors li {
+    color: red;
+}
+
+#question {
+    width: 100%;
+    height: 30px;
+}
+
+.disabled a {
+    pointer-events: none;
+}
